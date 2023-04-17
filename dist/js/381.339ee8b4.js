@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkflyticket"]=self["webpackChunkflyticket"]||[]).push([[381],{7381:function(t,n,e){e.r(n),e.d(n,{default:function(){return o}});var u=e(3396);const a={class:"about"},c=(0,u._)("h1",null,"This is an about page",-1),r=[c];function s(t,n){return(0,u.wg)(),(0,u.iD)("div",a,r)}var i=e(89);const f={},l=(0,i.Z)(f,[["render",s]]);var o=l}}]);
+//# sourceMappingURL=381.339ee8b4.js.map
